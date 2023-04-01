@@ -1,0 +1,57 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Darwin",
+      "lastName": "Acuña Vincenty",
+      "age": "15",
+      "email": "darwin@gmail.com",
+      "subjects": [
+        2
+      ]
+    },
+    {
+      "id": 2,
+      "firstName": "Maria",
+      "lastName": "Perez Alanez",
+      "age": 30,
+      "email": "jose@gmail.com",
+      "subjects": [
+        3,
+        4
+      ]
+    },
+    {
+      "firstName": "adasd",
+      "lastName": "2asda",
+      "age": "21",
+      "email": "ad@gmail.com",
+      "subjects": [
+        3
+      ],
+      "id": 5
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Matematicas"
+    },
+    {
+      "id": 2,
+      "name": "Fisica"
+    },
+    {
+      "id": 3,
+      "name": "Quimica"
+    },
+    {
+      "id": 4,
+      "name": "Biologia"
+    },
+    {
+      "name": "nueva",
+      "id": 5
+    }
+  ]
+}
